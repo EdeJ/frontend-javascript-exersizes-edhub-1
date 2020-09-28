@@ -34,7 +34,7 @@ if (number > 8) {
 // Tip: verander de waarde van isRaining en temperature even handmatig om te kijken of jouw 2e conditie klopt
 // ==========================================
 
-const isRaining = true;
+const isRaining = false;
 const temperature = 22;
 if (!isRaining && temperature > 21) {
     console.log('Je kunt een korte broek aan!');

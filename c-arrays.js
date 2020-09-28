@@ -24,7 +24,7 @@ console.log(numbers[0]);
 // ==========================================
 const colors = ['groen', 'geel', 'rood', 'paars', 'blauw', 'oranje'];
 console.log(colors[4]);
-console.log(colors[2]);
+console.log(colors[1]);
 
 // ==========================================
 // 5a. Declareer een variabele met daarin een array met de waardes 21, 22, 23, 25, 25

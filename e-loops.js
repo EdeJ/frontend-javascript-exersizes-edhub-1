@@ -44,7 +44,7 @@ for (let i = 0; i < 9; i++) {
 // tip: een getal is oneven als je het door 2 deelt en er blijft nog iets over. Een getal is even als je het deelt door 2 en er blijft niets over..
 // hier bestaat een speciale operator voor
 // ==========================================
-for (let i = 0; i < 15; i++) {
+for (let i = 0; i < 16; i++) {
     let output;
     if (i % 2) {
         output = i + ' is oneven';
